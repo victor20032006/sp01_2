@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element label="main" max_length="40" name="x_195090_sp01_2_main" type="collection">
+        <element label="Access to API" max_length="40" name="access_to_api" type="string"/>
+        <element label="Active" max_length="40" name="active" type="boolean"/>
+        <element label="ARO Approval Person" max_length="40" name="aro_app" type="string"/>
+        <element label="ARO Decision Date" max_length="40" name="aro_date" type="glide_date_time"/>
+        <element label="Attend by ISO Person" max_length="40" name="attend_by_iso" type="string"/>
+        <element label="Business Request Authentication Person Department / Office" max_length="40" name="auth_dept" type="string"/>
+        <element label="Business Request Authentication Person Email" max_length="40" name="auth_email" type="string"/>
+        <element label="Business Request Authentication Person Name" max_length="40" name="auth_nema" type="string"/>
+        <element label="Business Request Authentication Person Post" max_length="40" name="auth_post" type="string"/>
+        <element label="Business Justifications (including types of data planned to access)" max_length="1000" name="bus_just" type="string"/>
+        <element label="Business Contact Person Email" max_length="40" name="con_email" type="string"/>
+        <element label="Business Contact Person Name" max_length="40" name="con_name" type="string"/>
+        <element label="Business Contact Person Tel" max_length="40" name="con_tel" type="string"/>
+        <element label="ARO Decision" max_length="40" name="decision" type="string"/>
+        <element label="Deliver day" max_length="40" name="deliver_day" type="glide_date"/>
+        <element label="Development Server IP Address" max_length="1000" name="dev_ip" type="string"/>
+        <element label="form gp" max_length="40" name="form_gp" type="string"/>
+        <element default="Please be reminded that systems accessing student, course and/or other academic data from SIS may reach some personal data (e.g. student data, instructor data, etc.).  System owners and people managing the systems shall ensure that such personal data retrieved are protected with diligent control and measures, and compliant with the Personal Data (Privacy) Ordinance requirements." label="IMPORTANT" max_length="1000" name="imp_notes" read_only="true" type="string"/>
+        <element label="notes application" max_length="40" name="notes_application" type="string"/>
+        <element default="For systems requiring streamlined access to student, course, and/or other academic data from SIS, please use this online form to submit your request.  ARO and/or ISO will contact you for further details as needed.  Please feel free to contact Tony Lau (ext. 6100, Email: artony@ust.hk) for any query." label="Notes to Applicants" max_length="1000" name="notes_begin" read_only="true" type="string"/>
+        <element label="number" max_length="40" name="number" type="string"/>
+        <element label="Production Server IP Address" max_length="1000" name="prod_ip" type="string"/>
+        <element label="Ref" max_length="40" name="ref" type="string"/>
+        <element label="ARO Remarks" max_length="40" name="remarks" type="string"/>
+        <element label="Reviewed by" max_length="40" name="reviewed_by" type="string"/>
+        <element label="Target SIS API's to use (if already identified)" max_length="1000" name="sis_api" type="string"/>
+        <element choice="1" label="status" max_length="40" name="status" type="choice">
+            <choice/>
+        </element>
+        <element label="Technical Contact Person Email" max_length="40" name="tech_email" type="string"/>
+        <element label="Technical Contact Person Name" max_length="40" name="tech_name" type="string"/>
+        <element label="Technical Contact Person Tel" max_length="40" name="tech_tel" type="string"/>
+    </element>
+</database>

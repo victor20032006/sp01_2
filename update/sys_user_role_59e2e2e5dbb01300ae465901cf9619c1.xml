@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_user_role">
+    <sys_user_role action="INSERT_OR_UPDATE">
+        <assignable_by/>
+        <can_delegate>true</can_delegate>
+        <description/>
+        <elevated_privilege>false</elevated_privilege>
+        <grantable>true</grantable>
+        <includes_roles/>
+        <name>x_195090_sp01_2.main_user</name>
+        <scoped_admin>false</scoped_admin>
+        <suffix>main_user</suffix>
+        <sys_class_name>sys_user_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-03-12 08:54:41</sys_created_on>
+        <sys_id>59e2e2e5dbb01300ae465901cf9619c1</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_195090_sp01_2.main_user</sys_name>
+        <sys_package display_value="SP01_2" source="x_195090_sp01_2">2f91e621dbb01300ae465901cf961935</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="SP01_2">2f91e621dbb01300ae465901cf961935</sys_scope>
+        <sys_update_name>sys_user_role_59e2e2e5dbb01300ae465901cf9619c1</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-03-12 08:54:41</sys_updated_on>
+    </sys_user_role>
+</record_update>

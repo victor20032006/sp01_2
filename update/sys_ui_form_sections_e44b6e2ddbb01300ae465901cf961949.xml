@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_ui_form_sections form_id="e44b6e2ddbb01300ae465901cf961949" sys_domain="global" table="x_195090_sp01_2_main" version="3">
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-03-12 09:31:13</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>284b6e2ddbb01300ae465901cf9619f9</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_195090_sp01_2_main" name="x_195090_sp01_2_main" sys_domain="global" view="Default view">e44b6e2ddbb01300ae465901cf961949</sys_ui_form>
+            <sys_ui_section caption="NULL" display_value="" name="x_195090_sp01_2_main" sys_domain="global" view="Default view">e5c6e669dbb01300ae465901cf9619ac</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-03-12 09:31:13</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-03-12 09:31:13</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>e04b6e2ddbb01300ae465901cf9619fa</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_195090_sp01_2_main" name="x_195090_sp01_2_main" sys_domain="global" view="Default view">e44b6e2ddbb01300ae465901cf961949</sys_ui_form>
+            <sys_ui_section caption="Admin Only" display_value="Admin Only" name="x_195090_sp01_2_main" sys_domain="global" view="Default view">244b6e2ddbb01300ae465901cf961947</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-03-12 09:31:13</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-03-12 09:31:13</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>e44b6e2ddbb01300ae465901cf9619fd</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_195090_sp01_2_main" name="x_195090_sp01_2_main" sys_domain="global" view="Default view">e44b6e2ddbb01300ae465901cf961949</sys_ui_form>
+            <sys_ui_section caption="ARO" display_value="ARO" name="x_195090_sp01_2_main" sys_domain="global" view="Default view">e84b6e2ddbb01300ae465901cf961947</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-03-12 09:31:13</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>3</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-03-12 09:31:13</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>ec4bae2ddbb01300ae465901cf961900</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_195090_sp01_2_main" name="x_195090_sp01_2_main" sys_domain="global" view="Default view">e44b6e2ddbb01300ae465901cf961949</sys_ui_form>
+            <sys_ui_section caption="ISO" display_value="ISO" name="x_195090_sp01_2_main" sys_domain="global" view="Default view">e04b6e2ddbb01300ae465901cf961948</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-03-12 09:31:13</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>4</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-03-12 09:31:13</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>6c4bae2ddbb01300ae465901cf961904</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_195090_sp01_2_main" name="x_195090_sp01_2_main" sys_domain="global" view="Default view">e44b6e2ddbb01300ae465901cf961949</sys_ui_form>
+            <sys_ui_section caption="Stat" display_value="Stat" name="x_195090_sp01_2_main" sys_domain="global" view="Default view">e84b6e2ddbb01300ae465901cf961948</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-03-12 09:31:13</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form action="INSERT_OR_UPDATE">
+            <name>x_195090_sp01_2_main</name>
+            <roles/>
+            <sys_class_name>sys_ui_form</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-03-12 09:31:13</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>e44b6e2ddbb01300ae465901cf961949</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_195090_sp01_2_main</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="SP01_2" source="x_195090_sp01_2">2f91e621dbb01300ae465901cf961935</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="SP01_2">2f91e621dbb01300ae465901cf961935</sys_scope>
+            <sys_update_name>sys_ui_form_sections_e44b6e2ddbb01300ae465901cf961949</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-03-12 09:31:13</sys_updated_on>
+            <sys_user/>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_form>
+    </sys_ui_form_sections>
+</record_update>
